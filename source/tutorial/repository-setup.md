@@ -1,0 +1,64 @@
+# Repo Setup
+
+```{hint}
+Not the poor shmuck/happy nerd who has to do this part? Skip this!
+```
+
+## Create new repository on GitHub
+
+Follow the prompts to create a new repository with your desired name. The other
+options can be left as their defaults. (Unless you want a private repository.
+Figuring that out is outside the scope of this tutorial, but it should be easy.)
+
+```{figure-md}
+![](../_static/new_repo_button.png)
+
+Create a new repo
+```
+
+```{figure-md}
+![](../_static/give_repo_name.png)
+
+Name the repo
+```
+
+```{figure-md}
+![](../_static/repo_blank.png)
+
+Success!
+```
+
+## Create new local R Project
+
+RStudio can create "projects," which will help your team keep code in one place.
+Open RStudio and follow prompts to create, in a new directory, a new project
+with a (local) git repository.
+
+```{figure-md}
+![](../_static/create_rproj.png)
+
+After clicking new project button in top left
+```
+
+```{figure-md}
+![](../_static/create_rproj_1.png)
+
+After prompts
+```
+
+```{figure-md}
+![](../_static/create_rproj_2.png)
+
+After prompts
+```
+
+```{figure-md}
+![](../_static/rproj_blank.png)
+
+Success!
+```
+
+## WIP
+
+Hmm. Turns out continuing is hard without the command line. Will investigate
+further.

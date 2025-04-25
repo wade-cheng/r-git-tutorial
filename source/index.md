@@ -15,7 +15,7 @@ something like "Google Docs but for code."
 You may be asking: [why collaborate on coding with version control](./additional-explanations/why-version-control)?
 ```
 
-## Tech Stack
+## Setup
 
 Your PC will need to have access to the following tech stack:
 
@@ -28,8 +28,11 @@ Your PC will need to have access to the following tech stack:
 [](./additional-explanations/tech-stack.md)
 ```
 
+Then, you may proceed to the tutorial.
+
 ```{toctree}
 :hidden:
 
+tutorial/index
 additional-explanations/index
 ```
