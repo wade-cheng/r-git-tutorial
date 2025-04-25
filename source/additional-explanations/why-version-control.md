@@ -18,7 +18,7 @@ RStudio complains about some inscutable error... It turns out your coworker was
 editing at the same time as you, and some parenthesis was unclosed or something
 at the time of you declaring "run all this code." Now what? Should you wait
 until they're finished to run your code, and then have them wait while you're
-editing?
+editing? Sounds like a hassle again.
 
 ```{note}
 Well, you could both take care to work in your own designated code blocks. Then
@@ -27,3 +27,16 @@ for small scale collaboration with little intermingling. Too bad Posit Cloud's
 collaborative editing is locked behind a
 [paywall](https://docs.posit.co/cloud/guide/accounts/#beta-features).
 ```
+
+Our problem with instant collaborative editing was that one person's editing can
+effect another's while they are working on separate things. Thus, picture a
+method of delayed collaborative editing: an online repository of code will hold
+what has been collaborated on. But the key difference is that multiple people
+can make a copy of that repository to their own computer and make updates. Once
+someone is ready to merge their computer's copy back into the repository, they
+can do so. The next person to merge may have to reconcile merge conflicts, but
+they will suffer no forgetfullness in doing so.
+
+The host for online repositories we use is called GitHub. The command-line
+software that can be used to transfer data and conduct merges is called Git.
+RStudio provides a GUI wrapper around Git.
