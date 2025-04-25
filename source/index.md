@@ -1,15 +1,23 @@
 # Rstudio Git(Hub) tutorial
 
-This tutorial is intended for people who are not familiar with using Git to
-version control their code, and would like to do so with RStudio.
+## Target Audience
+
+This tutorial is specifically written for students assigned a simple team
+project using RStudio, who want to collaborate on coding using GitHub.
+
+```{important}
+This context means we will teach you how to work with others with GitHub in the
+simplest way possible. No fancy wizardry, we just want to turn RStudio into
+something like "Google Docs but for code."
+```
 
 ```{seealso}
-You may be asking: [](./additional-explanations/why-version-control)
+You may be asking: [why collaborate on coding with version control](./additional-explanations/why-version-control)?
 ```
 
 ## Tech Stack
 
-You will need to have access to the following tech stack:
+Your PC will need to have access to the following tech stack:
 
 - R ([download](https://cran.r-project.org/))
 - RStudio ([download](https://posit.co/downloads/))
