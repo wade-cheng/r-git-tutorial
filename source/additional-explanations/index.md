@@ -1,9 +1,8 @@
 # Additional Explanations
 
-temp
+Some explanations would clutter the main tutorial, so they have been placed
+here.
 
 ```{toctree}
-:hidden:
-
 why-version-control
 ```
