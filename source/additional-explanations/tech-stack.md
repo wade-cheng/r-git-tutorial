@@ -31,14 +31,19 @@ command-line version control software Git.
 
 ## Why Git?
 
-See [](./why-version-control.md).
+[](./why-version-control.md) explains why version control software is good. Git
+is a (possibly the most) popular VCS, used in industry and personal projects
+alike.
+
+There are arguments against it, but it's popular, and what the Author is
+familiar with.
 
 ## Why GitHub?
 
 GitHub, among other things, is a cloud storage provider for projects managed
 with Git.
 
-We use it simply because it's popular, and what the Author is familiar with.
+We use it because it's popular, and what the Author is familiar with.
 
 ## An Analogy
 
@@ -51,7 +56,7 @@ We use it simply because it's popular, and what the Author is familiar with.
 is analogous to
 
 - coding
-- a project
+- a statistics report
 - with RStudio
 - and using Git (or RStudio's Git GUI) to upload the files
 - into GitHub.

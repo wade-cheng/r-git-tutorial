@@ -5,4 +5,5 @@ here.
 
 ```{toctree}
 why-version-control
+tech-stack
 ```
