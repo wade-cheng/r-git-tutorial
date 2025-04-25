@@ -9,7 +9,16 @@ You may be asking: [](./additional-explanations/why-version-control)
 
 ## Tech Stack
 
-You will be using R, RStudio, Git, and GitHub.
+You will need to have access to the following tech stack:
+
+- R ([download](https://cran.r-project.org/))
+- RStudio ([download](https://posit.co/downloads/))
+- Git ([download](https://git-scm.com/downloads))
+- GitHub ([an account](https://github.com/signup))
+
+```{seealso}
+[](./additional-explanations/tech-stack.md)
+```
 
 ```{toctree}
 :hidden:
