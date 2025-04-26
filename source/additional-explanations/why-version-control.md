@@ -31,11 +31,11 @@ collaborative editing is locked behind a
 Our problem with _instant_ collaborative editing was that one person's editing
 can affect another's while they are working on separate things. Thus, picture a
 method of _delayed_ collaborative editing: an online repository of code will
-hold what has been collaborated on. But the key difference is that multiple
-people can make a copy of that repository to their own computer and make
-updates. Once someone is ready to merge their computer's copy back into the
-repository, they can do so. The next person to merge may have to reconcile merge
-conflicts, but they will suffer no forgetfullness in doing so.
+hold what has been collaborated on. The key difference is that multiple people
+can make a copy of that repository to their own computer and make updates. Once
+someone is ready to merge their computer's copy back into the repository, they
+can do so. The next person to merge may have to reconcile merge conflicts, but
+they will suffer no forgetfullness in doing so.
 
 The host for online repositories we use is called GitHub. The command-line
 software that can be used to transfer data and conduct merges is called Git.
