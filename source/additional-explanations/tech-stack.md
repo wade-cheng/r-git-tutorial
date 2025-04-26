@@ -27,11 +27,11 @@ code. Blocks and lines of code can be run in arbitrary order, enabling rapid
 prototyping. It can convert the notebook plaintext into formatted HTML or pdf.
 
 And most notably (for this guide), it provides a visual interface to the
-command-line version control software Git.
+command-line version control system Git.
 
 ## Why Git?
 
-[](./why-version-control.md) explains why version control software is good. Git
+[](./why-version-control.md) explains why version control systems are good. Git
 is a (possibly the most) popular VCS, used in industry and personal projects
 alike.
 
