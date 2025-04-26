@@ -1,7 +1,7 @@
 # Existing Repository
 
 This page is useful if somebody has created a repository on GitHub for your team
-to use. Let's see some options for editing it.
+to use. You'll do some setup and then be given a list of common editing options.
 
 ## Setup
 
