@@ -1,7 +1,10 @@
-# Repo Setup
+# Repository Setup
+
+This page is useful if your team is starting from scratch, so you need a
+repository on GitHub to work with.
 
 ```{hint}
-Not the poor shmuck/happy nerd who has to do this part? Skip this!
+Not the poor shmuck/happy nerd who has to do this part? Skip to the [next page](./existing-repository.md)!
 ```
 
 ## Create new repository on GitHub
