@@ -2,6 +2,8 @@
 
 ## Where?
 
+http://wade-cheng.is-a.dev/rstudio-git-tutorial/
+
 ## Developing
 
 The documentation is built with [sphinx-doc](https://www.sphinx-doc.org) and the
