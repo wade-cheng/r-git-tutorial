@@ -50,13 +50,13 @@ We use it because it's popular, and what the Author is familiar with.
 - Writing
 - a book
 - with MS Word
-- and using your computer's "drag and drop" function to upload the files
-- into Google Drive
+- and using your computer's "drag and drop" function
+- to upload the files to Google Drive
 
 is analogous to
 
 - coding
 - a statistics report
 - with RStudio
-- and using Git (or RStudio's Git GUI) to upload the files
-- into GitHub.
+- and using Git (or RStudio's Git GUI)
+- to upload the files to GitHub.

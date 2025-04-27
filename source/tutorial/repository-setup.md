@@ -13,6 +13,7 @@ Follow the prompts to create a new repository with your desired name. The other
 options can be left as their defaults. (Unless you want a private repository.
 Figuring that out is outside the scope of this tutorial, but it should be easy.)
 
+````{tab} Show Images
 ```{figure-md}
 ![](../_static/new_repo_button.png)
 
@@ -30,6 +31,11 @@ Name the repo
 
 Success!
 ```
+````
+
+```{tab} Hide Images
+...
+```
 
 ## Create new local R Project
 
@@ -37,6 +43,7 @@ RStudio can create "projects," which will help your team keep code in one place.
 Open RStudio and follow prompts to create, in a new directory, a new project
 with a (local) git repository.
 
+````{tab} Show Images
 ```{figure-md}
 ![](../_static/create_rproj.png)
 
@@ -59,6 +66,11 @@ After prompts
 ![](../_static/rproj_blank.png)
 
 Success!
+```
+````
+
+```{tab} Hide Images
+...
 ```
 
 ## WIP

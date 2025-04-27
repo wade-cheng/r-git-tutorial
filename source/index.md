@@ -21,14 +21,14 @@ Your PC will need to have access to the following tech stack:
 
 - R ([download](https://cran.r-project.org/))
 - RStudio ([download](https://posit.co/downloads/))
-- Git ([download](https://git-scm.com/downloads))
+- Git (default settings are fine: [download](https://git-scm.com/downloads))
 - GitHub ([an account](https://github.com/signup))
 
 ```{seealso}
 [](./additional-explanations/tech-stack.md)
 ```
 
-Then, you may proceed to the tutorial.
+Then, you may proceed to the [tutorial](./tutorial/repository-setup.md).
 
 ```{toctree}
 :hidden:

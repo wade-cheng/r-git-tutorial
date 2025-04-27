@@ -12,6 +12,7 @@ Create a new project from `Version Control`, and use the repository's URL.
 and you're free to change where it is saved
 (`Create project as subdirectory of`).
 
+```{tab} Show Images
 ![](./existing-repository/step1.png)
 
 ![](./existing-repository/step2.png)
@@ -21,6 +22,11 @@ and you're free to change where it is saved
 ![](./existing-repository/step4.png)
 
 ![](./existing-repository/step5_success.png)
+```
+
+```{tab} Hide Images
+...
+```
 
 ### Enter account details
 
@@ -32,7 +38,13 @@ git config --local user.name <preferred name>
 git config --local user.email <preferred email>
 ```
 
+```{tab} Show Images
 ![](./existing-repository/step6.png)
+```
+
+```{tab} Hide Images
+...
+```
 
 ## User Scenarios
 
@@ -51,13 +63,19 @@ Make your changes and checkbox whichever whichever changes you want commit, with
 a description of your changes. Rstudio will highlight any additions or deletions
 you've made in green or red. Then, you can press `Commit`.
 
+```{tab} Show Images
 ![](./existing-repository/step7.png) ![](./existing-repository/step8.png)
 ![](./existing-repository/step9.png) ![](./existing-repository/step10.png)
+```
+
+```{tab} Hide Images
+...
+```
 
 ### Downloading Changes ("Pulling")
 
 Your collaborators will be committing changes to the repo. Git may be smart
-enough to merge some changes automatically but, you might have to manually
+enough to merge some changes automatically, but you might have to manually
 merge.
 
 ```{note}
@@ -68,7 +86,13 @@ the code.
 Your first step to download changes will simply be to "pull" them from the
 repository.
 
+```{tab} Show Images
 ![](./existing-repository/step_11.png)
+```
+
+```{tab} Hide Images
+...
+```
 
 #### Automatic Merge
 
@@ -76,14 +100,28 @@ Pulling may merge automatically. For example, the following image says a
 "Fast-forward" merge occurred. This happens when you track a repository, and you
 have committed no local changes, so you simply update to a newer revision.
 
+You don't need to do anything else if this happens.
+
+```{tab} Show Images
 ![](./existing-repository/step_12.png)
+```
+
+```{tab} Hide Images
+...
+```
 
 #### Manual Merge
 
 You might pull changes that cannot be merged automatically. The following image
 says a "Merge conflict" occurred.
 
+```{tab} Show Images
 ![](./existing-repository/step_13.png)
+```
+
+```{tab} Hide Images
+...
+```
 
 Now, your code will have sections similar to the following, to signify areas of
 conflict.
@@ -156,4 +194,10 @@ To upload, or "push," changes to the repo:
 1. resolve any merge conflicts if they arise
 1. push (shown below)
 
+```{tab} Show Images
 ![](./existing-repository/step_14.png)
+```
+
+```{tab} Hide Images
+...
+```
